@@ -1,3 +1,5 @@
 {
-  "outputDirectory": ".next"
+  "buildCommand": "cd aplikacioni && npm run build",
+  "installCommand": "cd aplikacioni && npm install",
+  "outputDirectory": "aplikacioni/.next"
 }
